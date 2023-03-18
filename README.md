@@ -12,7 +12,7 @@
 
 1. Add the following URL to the Arduino Boards Manager (*File->Preferences*).
    ```
-   https://github.com/watterott/ATmega328PB-Testing/raw/master/package_m328pb_index.json
+   https://github.com/AmitaveRakhit/ATmega328PB/blob/main/package_m328pb_index.json
    ```
 
 2. Update the **Arduino AVR Boards** to version **1.6.22** or higher via the Boards Manager (*Tools->Boards->Boards Manager*).
